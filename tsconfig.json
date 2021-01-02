@@ -2,6 +2,10 @@
 "typeRoots": [
     "./node_modules/phaser/types"
 ],
+"compilerOptions": {
+    "target": "ES6",
+},
+
 "types": [
     "Phaser"
 ]
